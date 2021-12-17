@@ -87,25 +87,7 @@ plt.yticks(())
 plt.show()
 
 
-# In[ ]:
-
-
-
-
-
 # In[11]:
-
-
-
-
-
-# In[12]:
-
-
-
-
-
-# In[14]:
 
 
 import matplotlib.pyplot as plt
@@ -230,14 +212,6 @@ autopct='%1.1f%%', shadow=True, startangle=140)
 plt.title("Gold medal achievements of five most successful\n"+"countries in 2016 Summer Olympics")
 plt.show()
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
