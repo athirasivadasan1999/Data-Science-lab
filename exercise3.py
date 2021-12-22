@@ -180,7 +180,7 @@ plt.tight_layout()
 plt.show()
 
 
-# In[24]:
+# ques 8
 
 
 import matplotlib.pyplot as plt
