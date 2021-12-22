@@ -196,7 +196,7 @@ plt.show()
 
 
 
-# In[19]:
+# ques 9
 
 
 import matplotlib.pyplot as plt
@@ -214,7 +214,7 @@ plt.show()
 
 
 
-#In[12]
+#ques 10
 
 
 
