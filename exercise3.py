@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# ques 1
 
 
 import matplotlib.pyplot as plt
@@ -14,7 +14,7 @@ plt.plot(x ,y ,color='red' , linestyle='dashed' , marker='o' , markerfacecolor='
 plt.show()
 
 
-# In[2]:
+# ques 2
 
 
 import matplotlib.pyplot as plt
@@ -27,7 +27,7 @@ plt.ylabel('Sales')
 plt.show()
 
 
-# In[20]:
+# ques 3
 
 
 import matplotlib.pyplot as plt
@@ -45,7 +45,7 @@ plt.show()
 
 
 
-# In[21]:
+# ques 4
 
 
 import matplotlib.pyplot as plt
@@ -62,7 +62,7 @@ plt.legend()
 plt.show()
 
 
-# In[8]:
+# ques 5
 
 
 import matplotlib.pyplot as plt
@@ -87,16 +87,14 @@ plt.yticks(())
 plt.show()
 
 
-# In[11]:
+# ques 6(1)
 
 
 import matplotlib.pyplot as plt
 x = ['Java', 'Python', 'PHP', 'JavaScript', 'C#', 'C++']
 popularity = [22.2, 17.6, 8.8, 8, 7.7, 6.7]
 x_pos = [i for i, _ in enumerate(x)]
-
 plt.bar(x_pos, popularity, color=(0.4, 0.6, 0.8, 1.0))
-
 plt.xlabel("Languages")
 plt.ylabel("Popularity")
 plt.title("PopularitY of Programming Language\n" + "Worldwide, Oct 2017 compared to a year ago")
@@ -107,7 +105,7 @@ plt.grid(which='minor', linestyle=':', linewidth='0.5', color='black')
 plt.show()
 
 
-# In[22]:
+#ques 6(3)
 
 
 import matplotlib.pyplot as plt
